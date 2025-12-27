@@ -85,6 +85,7 @@ Digital_Clock/
 ├── hours.v
 ├── digital_clock.v
 ├── tb_digital_clock.v
+├── README.md
 │
 ├── circuit/
 │   ├── divider_minutes_box.png
@@ -93,8 +94,8 @@ Digital_Clock/
 │
 └── results/
     └── simulation/
-        ├── waveform screenshots
-        └── verification outputs
+        ├── screenshots / waveforms
+
 ```
 ---
 
